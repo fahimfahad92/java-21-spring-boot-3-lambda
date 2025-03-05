@@ -24,7 +24,7 @@
         <spotless-maven-plugin.version>2.41.1</spotless-maven-plugin.version>
         <aws-serverless-java-container-springboot3.version>2.1.2</aws-serverless-java-container-springboot3.version>
         <aws-serverless-java-container-core.version>2.1.2</aws-serverless-java-container-core.version>
-        <httpclient5.version>5.4.1</httpclient5.version>
+        <httpclient5.version>5.4.2</httpclient5.version>
     </properties>
 
     <dependencies>
